@@ -133,3 +133,35 @@ In **your GitHub repository → Pull requests → New pull request**, use base `
 **Done:** the game works locally, the PR is merged, its issue is closed, and the spec links to code and actual checks. Return to the **class terminal running the game** and stop it with Ctrl+C. No website deployment or extra reflection document is required.
 
 **Next, with less guidance:** [choose another small feature](NEXT.md). Try first-to-two scoring, explain why a move won, or personalize the game. Choose one, write your own short request and test plan, and use a separate issue/PR.
+
+## Creative Project Concept Comparison
+
+I considered two possible creative programming projects.
+
+### Concept 1: RPS Prediction Playground (Game)
+
+A Rock Paper Scissors application where users can create accounts, play against computer strategies, save game results, and review their private game history through a dashboard.
+
+- **Audience:** Beginner programmers and people who enjoy simple strategy games.
+- **Useful interaction:** Play Rock Paper Scissors against the computer.
+- **Saved records:** Wins, losses, draws, and game results.
+- **Dashboard:** View personal scores and previous games.
+- **Account maintenance:** Update account information and password.
+
+### Concept 2: Personal Task Tracker (Non-Game)
+
+A web application where users create accounts, manage personal tasks, save completed tasks, and view their progress through a private dashboard.
+
+- **Audience:** Students who want to organize their assignments and responsibilities.
+- **Useful interaction:** Create, edit, and complete tasks.
+- **Saved records:** Task descriptions, deadlines, and completion status.
+- **Dashboard:** View active and completed tasks.
+- **Account maintenance:** Update account information and password.
+
+### Final Project Selection
+
+I chose the RPS Prediction Playground because it offers an opportunity to explore game logic, computer strategies, testing, and saved user results.
+
+It is also a manageable project that allows me to practice programming concepts while building a useful interactive application.
+
+The Personal Task Tracker is a reasonable alternative, but I am more interested in exploring the programming challenges involved in game development.
