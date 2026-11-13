@@ -189,3 +189,33 @@ The RPS Prediction Playground uses the following technologies:
 - **Pytest:** Runs automated unit tests.
 - **Playwright:** Tests browser interactions and application behavior.
 - **Git and GitHub:** Manage source code, version control, and collaboration.
+
+## Architecture Sketch
+
+The application follows a client-server architecture.
+
+```text
+        PLAYER
+           |
+           v
+    WEB BROWSER
+           |
+           v
+    FLASK APPLICATION
+         (app.py)
+           |
+     +-----+------+
+     |     |      |
+     v     v      v
+  ACCOUNT GAME  DASHBOARD
+  ACCESS  LOGIC  & HISTORY
+     |     |      |
+     +-----+------+
+           |
+           v
+      DATA STORAGE
+           |
+     +-----+------+
+     |            |
+     v            v
+   USERS      GAME RECORDS
