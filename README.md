@@ -165,3 +165,15 @@ I chose the RPS Prediction Playground because it offers an opportunity to explor
 It is also a manageable project that allows me to practice programming concepts while building a useful interactive application.
 
 The Personal Task Tracker is a reasonable alternative, but I am more interested in exploring the programming challenges involved in game development.
+
+## Five User Stories
+
+1. **Account Access:** As a player, I want to create an account and log in so that my game records are private.
+
+2. **Game Interaction:** As a player, I want to play Rock Paper Scissors against the computer so that I can enjoy the game and test different strategies.
+
+3. **Saved Results:** As a player, I want my wins, losses, and draws to be saved so that I can track my performance.
+
+4. **Private Dashboard:** As a player, I want to view my previous games and statistics so that I can understand my progress.
+
+5. **Account Maintenance:** As a player, I want to update my username and password so that I can maintain my account.
