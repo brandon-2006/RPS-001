@@ -177,3 +177,15 @@ The Personal Task Tracker is a reasonable alternative, but I am more interested 
 4. **Private Dashboard:** As a player, I want to view my previous games and statistics so that I can understand my progress.
 
 5. **Account Maintenance:** As a player, I want to update my username and password so that I can maintain my account.
+
+## Technology Stack
+
+The RPS Prediction Playground uses the following technologies:
+
+- **Python:** Handles the game logic and server-side functionality.
+- **Flask:** Provides the web application framework.
+- **HTML:** Structures the application pages.
+- **CSS:** Styles the user interface.
+- **Pytest:** Runs automated unit tests.
+- **Playwright:** Tests browser interactions and application behavior.
+- **Git and GitHub:** Manage source code, version control, and collaboration.
