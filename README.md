@@ -220,6 +220,16 @@ The application follows a client-server architecture.
      v            v
    USERS      GAME RECORDS
 
+### Data Flow Explanation
+
+1. The player interacts with the application through the browser.
+2. Flask receives the player's request and routes it to the appropriate functionality.
+3. The game logic processes the player's move and determines the result.
+4. Game results are sent to the data storage layer.
+5. The dashboard retrieves saved records to display the player's history and statistics.
+
+Note: Account management, persistent storage, and private dashboards are planned requirements unless otherwise implemented and verified.
+
 ## Creative Experiment: Adaptive Computer Opponent
 
 ### Research Question
