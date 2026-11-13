@@ -219,3 +219,39 @@ The application follows a client-server architecture.
      |            |
      v            v
    USERS      GAME RECORDS
+
+## Creative Experiment: Adaptive Computer Opponent
+
+### Research Question
+
+Can an adaptive computer opponent create a more challenging
+and interesting Rock Paper Scissors experience than a
+computer opponent that chooses moves randomly?
+
+### Idea
+
+I want to explore two computer strategies:
+
+1. Random Strategy: The computer randomly chooses rock,
+   paper, or scissors.
+
+2. Adaptive Strategy: The computer tracks the player's
+   previous moves and attempts to predict their next move.
+
+### What I Will Compare
+
+- How often each strategy wins against the player.
+- Whether the adaptive strategy can recognize patterns.
+- Whether the game becomes more challenging.
+- Whether the strategy works correctly across multiple rounds.
+
+### Uncertainty
+
+I am not sure whether tracking previous moves will
+actually make the computer opponent more effective.
+Players may change their patterns, making predictions
+less reliable.
+
+### Status
+
+Planned — the experiment has not yet been conducted.
